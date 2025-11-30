@@ -36,4 +36,4 @@ These are beginner-friendly programs to practice Java fundamentals:
 ## How to Run
 1. Clone this repository:  
 ```bash
-git clone https://[github.com/<YOUR_USERNAME>/<REPO_NAME>](https://github.com/Gyananjay600/Java-Development).git
+git clone https://github.com/Gyananjay600/Java-Development.git
