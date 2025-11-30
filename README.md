@@ -1,4 +1,4 @@
-# Gyananjay Sahoo Projects
+# Internship Projects
 
 Welcome! 👋 I’m **Gyananjay Sahoo**, a passionate **B.Tech 3rd-year student** learning **Java, Data Analysis, AI/ML, and Full-Stack Development**.  
 This repository contains my **mini Java projects**, demonstrating problem-solving skills and programming fundamentals.
